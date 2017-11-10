@@ -1,0 +1,65 @@
+<html>
+ <head>
+   <meta charset="UTF=8">
+   <meta author="Rubén García">
+   <meta lang="es">
+   <title>horario</title>
+ </head>
+
+ <body>
+ <table border="1" width="600px" align="center">
+ <center>
+
+ <tr>
+  <td width=20% height="%60px" bgcolor="black"></td>
+  <th width=16% bgcolor="grey">DL</th>
+  <th width=16% bgcolor="grey">DT</th>
+  <th width=16% bgcolor="grey">DX</th>
+  <th width=16% bgcolor="grey">DJ</th>
+  <th width=16% bgcolor="grey">DV</th>
+ </tr>
+
+ <tr>
+  <th height="60px" bgcolor="grey">4-5</th>
+  <td bgcolor="green"><center>M8</td>
+  <td bgcolor="red"><center>M6</td>
+  <td bgcolor="purple"><center>TUT</td>
+  <td bgcolor="aqua"><center>M7</td>
+  <td bgcolor="green"><center>M8</td>
+ </tr>
+
+ <tr>
+  <th height="60px" bgcolor="grey">5-6</th>
+  <td bgcolor="green"><center>M8</td>
+  <td bgcolor="red"><center>M6</td>
+  <td bgcolor="orange"><center>M9</td>
+  <td bgcolor="aqua"><center>M7</td>
+  <td bgcolor="green"><center>M8</td>
+ </tr>
+
+ <tr>
+  <th height="30px" bgcolor="grey">6-6:30</th>
+  <td colspan="5" bgcolor="pink"><center>PATIO</th>
+ </tr>
+
+ <tr>
+  <th height="60px" bgcolor="grey">6:30-7:30</th>
+  <td bgcolor="red"><center>M6</td>
+  <td bgcolor="green"><center>M8</td>
+  <td bgcolor="orange"><center>M9</td>
+  <td bgcolor="orange"><center>M9</td>
+  <td bgcolor="aqua"><center>M7</td>
+ </tr>
+
+ <tr>
+  <th height="60px" bgcolor="grey">7:30-8:30</th>
+  <td bgcolor="red"><center>M6</td>
+  <td bgcolor="green"><center>M8</td>
+  <td bgcolor="orange"><center>M9</td>
+  <td bgcolor="green"><center>M8</td>
+  <td bgcolor="aqua"><center>M7</td>
+ </center>
+ </table>
+ </body>
+
+</html>
