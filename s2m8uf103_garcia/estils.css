@@ -200,9 +200,11 @@ display: block;
   margin: 4px;
   float: left;
   background-size: 99px 99px;
-  color: transparent;
-  background-image: url(img/f8.jpg);
-
+  line-height: 178px;
+  text-align: center;
+  text-shadow: 0 0 2px black;
+  text-indent: 5px;
+  color: white;
 }
 
 #amics ul {
@@ -212,37 +214,37 @@ display: block;
 }
 
 #a01 {
-  background-image: url(http://dlopez-goicochea2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://dlopez-goicochea2018.github.io/MP08/s2m8uf103_lopez-goicochea/img/perfil.jpg);
 }
 
 #a02 {
-  background-image: url(http://amoreno2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://amoreno2018.github.io/MP08/s2m8uf103_moreno/img/perfil.jpg);
 }
 
 #a03 {
-  background-image: url(http://zruiz2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://zruiz2018.github.io/MP08/s2m8uf103m_ruiz/img/perfil.jpg);
 }
 
 #a04 {
-  background-image: url(http://jsanchez2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://jsanchez2018.github.io/MP08/s2m8uf103_sanchez/img/perfil.jpg);
 }
 
 #a05 {
-  background-image: url(http://jsagrera2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://jsagrera2018.github.io/MP08/s2m8uf103_sagrera/img/perfil.jpg);
 }
 
 #a06 {
-  background-image: url(http://mchacon2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://mchacon2018.github.io/MP08/s2m8uf103_chacon/img/perfil.jpg);
 }
 
 #a07 {
-  background-image: url(http://amanchon.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://amanchon.github.io/MP08/s2m8uf103_manchon/img/perfil.jpg);
 }
 
 #a08 {
-  background-image: url(http://calvarez2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://calvarez2018.github.io/MP08/s2m8uf103_alvarez/img/perfil.jpg);
 }
 
 #a09 {
-  background-image: url(http://xolle2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+  background-image: url(http://xolle2018.github.io/MP08/s2m8uf103_olle/img/perfil.jpg);
 }
