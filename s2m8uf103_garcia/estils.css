@@ -1,0 +1,248 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e6e8eb;
+  font-family: "lucida grande", tahoma, san francisco, roboto, segoe UI
+}
+
+#barra {
+  height: 43px;
+  background-color: #395ca9;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100000;
+}
+
+#contenidor {
+  width: 852px;
+  background-color: #FFF;
+  margin: 0 auto;
+}
+
+#portada {
+  height: 204px;
+  background-image: url(img/portada.jpg);
+  margin-top: 43px;
+}
+
+#nom {
+  width: 320px;
+  top: 160px;
+  left: 210px;
+  position: relative;
+  color: #FFF;
+  text-shadow: 0 0 5px #000;
+}
+
+#perfil {
+  border: solid 4px white;
+  border-radius: 4px;
+  position: relative;
+  left: 17px;
+  top: 13.5px;
+  box-shadow: 0 0 0 2px;
+}
+
+#menu {
+  height: 44px;
+  background-color: #e6e8eb;
+  padding: 0;
+  margin: 0 0 0 200px;
+  width: 476px;
+}
+
+#menu li {
+  float: left;
+  padding: 0 18px;
+  display: block;
+  font-weight: bold;
+  color: #395ca9;
+  background-color: #FFF;
+  margin: 0 0 0 1px;
+  height: 44px;
+  line-height: 44px;
+}
+
+#menu li:hover {
+  color: #000;
+  background-image: url(img/select.gif);
+  background-repeat: no-repeat;
+  background-position: 50% 37px;
+}
+
+#contingut {
+  border-top: solid 1px #e6e8eb;
+}
+
+.esquerra {
+  width: 323px;
+  margin: 10px 0;
+}
+
+.esquerra h4 {
+  background-color: yellow;
+  height: 14px;
+  padding: 5px;
+  font-weight: normal;
+  font-size: 18px;
+  text-indent: 36px;
+  background-image: url(img/lateral.png);
+  background-repeat: no-repeat;
+  background-position: 10px 1px;
+  margin: 0;
+}
+
+#presentacio li {
+  height: 30px;
+  border-top: solid 1px grey;
+  font-size: 12px;
+  line-height: 30px;
+}
+
+#fotos li {
+display: block;
+}
+
+#fotos h4 {
+background-position: 0 -24px;
+}
+
+#amics h4 {
+background-position: 0 -48px;
+}
+
+#amics li {
+display: block;
+}
+
+.estudis {
+  list-style-image: url(img/icones_estudis.png);
+}
+
+.domicili {
+  list-style-image: url(img/icones_domicili.png);
+}
+
+.feina {
+  list-style-image: url(img/icones_feina.png);
+}
+
+.relacio {
+  list-style-image: url(img/icones_sentimental.png);
+}
+
+.aniversari {
+  list-style-image: url(img/icones_esdeveniments.png);
+}
+
+#fotos ul li {
+  display: block;
+  width: 99px;
+  height: 99px;
+  margin: 4px;
+  float: left;
+  background-size: 99px 99px;
+  color: transparent;
+}
+
+#fotos ul {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.esquerra ul {
+  margin-top: 20px;
+}
+
+#f1 {
+  background-image: url(img/f1.jpg);
+}
+
+#f2 {
+  background-image: url(img/f2.jpg);
+}
+
+#f3 {
+  background-image: url(img/f3.jpg);
+}
+
+#f4 {
+  background-image: url(img/f4.jpg);
+}
+
+#f5 {
+  background-image: url(img/f5.jpg);
+}
+
+#f6 {
+  background-image: url(img/f6.jpg);
+}
+
+#f7 {
+  background-image: url(img/f7.jpg);
+}
+
+#f8 {
+  background-image: url(img/f8.jpg);
+}
+
+#f9 {
+  background-image: url(img/f9.jpg);
+}
+
+#amics ul li {
+  display: block;
+  width: 99px;
+  height: 99px;
+  margin: 4px;
+  float: left;
+  background-size: 99px 99px;
+  color: transparent;
+  background-image: url(img/f8.jpg);
+
+}
+
+#amics ul {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#a01 {
+  background-image: url(http://dlopez-goicochea2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a02 {
+  background-image: url(http://amoreno2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a03 {
+  background-image: url(http://zruiz2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a04 {
+  background-image: url(http://jsanchez2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a05 {
+  background-image: url(http://jsagrera2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a06 {
+  background-image: url(http://mchacon2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a07 {
+  background-image: url(http://amanchon.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a08 {
+  background-image: url(http://calvarez2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
+
+#a09 {
+  background-image: url(http://xolle2018.github.io/MP08/s2m8uf103mora/img/perfil.jpg);
+}
