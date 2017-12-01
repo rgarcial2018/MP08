@@ -1,0 +1,46 @@
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <meta author="Rubén García">
+  <meta lang="ca">
+
+ <title>El meu primer document</title>
+ </head>
+
+ <body>
+  <h1>Lorem ipsum dolor sit amet</h1>
+
+  <h2>Phasellus magna elit, mollis rhoncus nunc ac, E=mC<sup>2</sup>. E=mC<sub>2</sub> dapibus ullamcorper augue. <br />In suscipit molestie justo, eu congue odio feugiat eget.</h2>
+
+  <h3>Cornellá de Llobregat, 25 de Septiembre de 2017</h3>
+
+  <p><b>Lorem ipsum dolor sit amet</b>, consectetur adipiscing elit. Phasellus magna elit, mollis rhoncus nunc ac, dapibus ullamcorper augue. In suscipit molestie justo, eu congue odio feugiat eget. Duis vel dui a erat imperdiet varius sit amet at nisl. <u>Maecenas sed ipsum nec nisi interdum varius quis lacinia metus.</u> Morbi vehicula sed orci a volutpat. Donec ullamcorper enim et urna mattis bibendum. In fermentum lorem et urna faucibus, non eleifend nisi pulvinar. Vestibulum ipsum nisi, tempor quis cursus id, efficitur ut lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <i>Nulla lacinia dictum faucibus.</i></p>
+
+  <p><b>Duis velit enim</b>, facilisis sed lorem et, maximus bibendum nisi. Integer ac blandit magna, et maximus libero. Donec vel urna eleifend, efficitur magna in, varius enim. <s>Suspendisse potenti.</s> Phasellus ultrices turpis quis ipsum egestas, <u>ut ornare ligula tempus.</u> Duis posuere dolor sed diam lacinia egestas. Sed dolor diam, gravida in lobortis a, <i>viverra quis metus.</i></p>
+
+  <p><b>Maecenas laoreet gravida libero vel mollis</b>. Curabitur rutrum leo nec dictum semper. Vivamus sapien leo, scelerisque ac est a, posuere ultrices magna. Phasellus sed ex nisl. Donec sodales sit amet diam vitae malesuada. <u>Donec sit amet nibh orci.</u> Pellentesque a leo a sem imperdiet malesuada eu facilisis turpis. Fusce id diam nulla. Vestibulum eu finibus nibh. <i>Donec ac maximus turpis.</i></p>
+
+  <p><blockquote>Aenean tincidunt felis nibh, vitae suscipit odio elementum sit amet. In lacus lorem, euismod ut tempor et, placerat eget dolor. Vivamus hendrerit quis orci et auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <u>Etiam nec posuere libero.</u> In ut nunc sit amet libero hendrerit auctor vitae nec nisi. Aenean condimentum ornare ligula ac suscipit. <i>Nam non quam diam.</i></blockquote></p>
+
+  <p><code>Aenean tincidunt felis nibh, vitae suscipit odio elementum sit amet. In lacus lorem, euismod ut tempor et, placerat eget dolor. Vivamus hendrerit quis orci et auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <u>Etiam nec posuere libero.</u> In ut nunc sit amet libero hendrerit auctor vitae nec nisi. Aenean condimentum ornare ligula ac suscipit. <i>Nam non quam diam.</i></code></p>
+
+  <img src="avatar.jpg" widht="256px" />
+ <hr />
+ <h4>Candidats a delegat/da</h4>
+ <ul>
+  <li>Alejandro</li>
+  <li>Marc</li>
+  <li>Andrea</li>
+  <li>Silvia</li>
+ </ul>
+
+ <h4>Resultats a delegat/da</h4>
+ <ol>
+  <li><font color="red">Marc</font color="red"></li>
+  <li><font color="blue">Andrea<font color="blue"></li>
+  <li><font color="purple">Alejandro<font color="purple"></li>
+  <li><font color="pink">Silvia</font color="red"></li>
+ </ol>
+
+ </body>
+</html>
